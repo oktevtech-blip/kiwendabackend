@@ -1,0 +1,76 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-image",
+      "description": "A welcoming view of the rehabilitation center's entrance.",
+      "imageUrl": "https://images.unsplash.com/photo-1723460041170-aada46b67a35?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxidWlsZGluZyUyMGVudHJhbmNlfGVufDB8fHx8MTc1OTU5Nzg4NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "building entrance"
+    },
+    {
+      "id": "service-physiotherapy",
+      "description": "Patient undergoing physiotherapy.",
+      "imageUrl": "https://images.unsplash.com/photo-1649751361457-01d3a696c7e6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwaHlzaWNhbCUyMHRoZXJhcHl8ZW58MHx8fHwxNzU5NTg5NDA4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "physical therapy"
+    },
+    {
+      "id": "service-occupational",
+      "description": "Patient in an occupational therapy session.",
+      "imageUrl": "https://images.unsplash.com/photo-1528716321680-815a8cdb8cbe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxvY2N1cGF0aW9uYWwlMjB0aGVyYXB5fGVufDB8fHx8MTc1OTY2NTM2OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "occupational therapy"
+    },
+    {
+      "id": "service-speech",
+      "description": "A speech therapist working with a child.",
+      "imageUrl": "https://images.unsplash.com/photo-1698992985911-275299b9556e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxzcGVlY2glMjB0aGVyYXB5fGVufDB8fHx8MTc1OTY2NTM2OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "speech therapy"
+    },
+    {
+      "id": "gallery-1",
+      "description": "Facility interior.",
+      "imageUrl": "https://images.unsplash.com/photo-1731514709874-30eead90613b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxjbGluaWMlMjBpbnRlcmlvcnxlbnwwfHx8fDE3NTk2MDY1MTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "clinic interior"
+    },
+    {
+      "id": "gallery-2",
+      "description": "Group therapy session.",
+      "imageUrl": "https://images.unsplash.com/photo-1609234656432-603fd648adf8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxncm91cCUyMHRoZXJhcHl8ZW58MHx8fHwxNzU5NTczNjcyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "group therapy"
+    },
+    {
+      "id": "gallery-3",
+      "description": "Outdoor rehabilitation area.",
+      "imageUrl": "https://images.unsplash.com/photo-1758402638104-3d3b92e465ca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxnYXJkZW4lMjB0aGVyYXB5fGVufDB8fHx8MTc1OTY2NTM2OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "garden therapy"
+    },
+    {
+      "id": "blog-1",
+      "description": "Blog post about benefits of exercise.",
+      "imageUrl": "https://images.unsplash.com/photo-1720788072309-3f99c9750009?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxwZXJzb24lMjBzdHJldGNoaW5nfGVufDB8fHx8MTc1OTY2NTM2OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person stretching"
+    },
+    {
+      "id": "blog-2",
+      "description": "Blog post about healthy eating.",
+      "imageUrl": "https://images.unsplash.com/photo-1567769541495-338ee7203e3c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxoZWFsdGh5JTIwZm9vZHxlbnwwfHx8fDE3NTk2MDQ0MTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "healthy food"
+    },
+    {
+      "id": "user-avatar-1",
+      "description": "Avatar for Jane Doe.",
+      "imageUrl": "https://images.unsplash.com/photo-1557053910-d9eadeed1c58?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx3b21hbiUyMHBvcnRyYWl0fGVufDB8fHx8MTc1OTYyOTkwN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman portrait"
+    },
+    {
+      "id": "user-avatar-2",
+      "description": "Avatar for John Smith.",
+      "imageUrl": "https://images.unsplash.com/photo-1560250097-0b93528c311a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxtYW4lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NTk1ODAxMjN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "man portrait"
+    },
+    {
+      "id": "user-avatar",
+      "description": "Default admin avatar.",
+      "imageUrl": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxwZXJzb24lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NTk2MjQ1ODZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person portrait"
+    }
+  ]
+}
