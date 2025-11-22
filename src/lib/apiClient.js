@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API = axios.create({
-  baseURL: "http://localhost:5000", // ✅ same as your backend port
+  baseURL: process.env.NEXT_PUBLIC_API_URL, // ✅ uses Vercel environment variable
 });
 
 export default API;
