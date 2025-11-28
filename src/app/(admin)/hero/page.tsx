@@ -10,7 +10,7 @@ export default function HeroAdmin() {
 
   // Fetch the current hero image
   useEffect(() => {
-    fetch("http://localhost:5000/hero")
+    fetch("https://kiwendaserver.onrender.com/hero")
       .then((res) => res.json())
       .then((data) => setCurrentHero(data));
   }, []);
@@ -23,7 +23,7 @@ export default function HeroAdmin() {
     const formData = new FormData();
     formData.append("image", file);
 
-    const res = await fetch("http://localhost:5000/hero/upload", {
+    const res = await fetch("https://kiwendaserver.onrender.com/hero/upload", {
       method: "POST",
       body: formData,
     });
@@ -34,7 +34,7 @@ export default function HeroAdmin() {
       alert("Hero image updated!");
 
       // Re-fetch updated hero image after upload
-      const res2 = await fetch("http://localhost:5000/hero");
+      const res2 = await fetch("https://kiwendaserver.onrender.com/hero");
       const updatedHero = await res2.json();
       setCurrentHero(updatedHero);
     } else {
